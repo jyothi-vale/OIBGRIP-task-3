@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+	font-size: 400%;
+	color: #DC143C;
+	border: 3px inset #FFA500;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+body{
+	background-image: url(cloud.jpg);
+	background-size: 100%;
+}
+#box{
+	font-size: 150%;
+	text-align: center;
+	border: 10px double black;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 2%;
+	padding-bottom: 5%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
